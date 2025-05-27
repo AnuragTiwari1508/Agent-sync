@@ -59,5 +59,3 @@ http://localhost:3000
 /utils
 /styles
 
-
-Let me know if you’d like this tailored for GitHub Pages or a private deployment.
